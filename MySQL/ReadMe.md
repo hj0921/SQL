@@ -1,1 +1,1 @@
-MySQL exceise examples from Udemy.
+MySQL exercise examples from Udemy.
